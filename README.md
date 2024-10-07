@@ -1,8 +1,15 @@
-# BlogReader :dart:
+# BlogReader :memo:
 
 BlogReader is an Android application designed for users to read and interact with blog posts easily. It fetches blog content from a remote API and presents it in a user-friendly format, allowing users to explore various articles, read their contents in detail, and navigate seamlessly between different screens.
 
-## Built With :reminder_ribbon:
+### Key Features :label:
+- **Splash Screen**: A loading screen that displays the app's title.
+- **Blog List**: A list of blog posts fetched from a remote API, each displaying a title and excerpt.
+- **Blog Details**: Full blog content displayed in a WebView, allowing users to read articles in detail.
+- **MVVM Architecture**: Ensures a clean separation of concerns and scalability.
+
+
+## Built With :hammer_and_wrench:
 1. **Android Studio:**
 The official IDE for Android development, providing tools and features to build, test, and debug your application.
 
